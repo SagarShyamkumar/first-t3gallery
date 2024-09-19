@@ -6,3 +6,8 @@ body {
      background-color: black;
      color: white;
 }
+
+dialog {
+     max-width: 100vw;
+     max-height: 100vh;
+}
